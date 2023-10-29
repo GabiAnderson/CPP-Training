@@ -15,6 +15,7 @@
             return val; val must match returnType
         }
     Functions need to be defined before they can be used
+    They are reusable peices of code that do some set functionality
 */
 
 #include <iostream>
@@ -26,17 +27,45 @@ int addNumbers (int first_number, int second_number)
     return sum;
 }
 
+// CHALLENGE - create a function that multiplies 2 numbers together
+int multiplyNumbers (int first_number, int second_number)
+{
+    int product = first_number * second_number;
+    return product;
+}
+
 int main()
 {
     int firstNumber = 12; // this is a statement
     int secondNumber = 9;
 
     int sum = firstNumber + secondNumber;
+    std::cout << "Sum: " << sum << std::endl;
 
     // this is an example of using (calling) the predefined function from above
     sum = addNumbers(firstNumber, secondNumber); // this is a function call - also a statement
+    std::cout << "Sum: " << sum << std::endl;
 
     sum = addNumbers(3, 4); // this is another statement - and another function call
+    std::cout << "Sum: " << sum << std::endl;
+
+    
+    std::cout << "Sum: " << addNumbers(31, 7) << std::endl;
+
+    // CHALLENGE - use the multiply function
+    firstNumber = 7;
+    secondNumber = 9;
+
+    int product = firstNumber * secondNumber;
+    std::cout << "Product: " << product << std::endl;
+
+    product = multiplyNumbers(firstNumber, secondNumber);
+    std::cout << "Product: " << product << std::endl;
+    
+    product = multiplyNumbers(3, 5);
+    std::cout << "Product: " << product << std::endl;
+    
+    std::cout << "Product: " << multiplyNumbers(4, 5) << std::endl;
 
     return 0; // this is also a statement
 }
