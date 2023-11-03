@@ -66,7 +66,7 @@ int main()
     std::cout << "unsigned int :  " << unsigned_int <<" , size : " << sizeof (unsigned int) << " bytes" << std::endl;
     std::cout << "---------------------" << std::endl;
 
-    // all take up 4 OR 8 bytes
+    // all take up 4 OR 8 bytes - I think 4 OR 8 because it depends on operating system (Linux is 8, Windows is 4)
     long long_var {88};
     long int long_int {33};
     signed long signed_long {44};
