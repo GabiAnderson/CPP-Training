@@ -6,7 +6,7 @@ This repository is dedicated to my learning journey through a C++ programming co
 
 ### Course Details
 
-- **YouTube Course**: [C++ programming course - beginner to advanced (learn c++ in 31 hours)](https://www.youtube.com/watch?v=8jLOx1hD3_o&t=24969s)
+- **YouTube Course**: [C++ Programming Course - Beginner to Advanced (Learn C++ in 31 Hours)](https://www.youtube.com/watch?v=8jLOx1hD3_o&t=24969s)
 - **Udemy Course**: [The C++20 Masterclass : From Fundamentals to Advanced](https://www.udemy.com/course/the-modern-cpp-20-masterclass/)
 
 ## Course Structure
