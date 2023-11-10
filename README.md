@@ -20,8 +20,10 @@ The YouTube course is a condensed version of the Udemy course, missing different
 3. **Chapter 3 - First Steps**: Completed
 4. **Chapter 4 - Variables and Data Types**: Completed
 5. **Chapter 5 - Operations on Data**: Completed
-6. **Chapter 6 - Literals and Constants**: In Progress
-    - **Section 1 - Literals**: Supplementing with [C++ Programming Tutorial 28 - Literals ](https://www.youtube.com/watch?v=F27KllsR7Io)
+6. **Chapter 6 - Literals and Constants**: In Progress - Supplemented with [Constants](https://cplusplus.com/doc/tutorial/constants/)
+    - **Section 2 - Literals**: Supplemented with [C++ Programming Tutorial 28 - Literals ](https://www.youtube.com/watch?v=F27KllsR7Io) and [GeeksForGeeks: Literals in C/C++ With Examples](https://www.geeksforgeeks.org/literals-in-c-cpp-with-examples/#)
+    - **Section 3 - Constants**: Supplemented with [GeeksForGeeks: Const keyword in C++](https://www.geeksforgeeks.org/const-keyword-in-cpp/)
+    - **Section 4 - Constant Expressions**: Supplemented with [GeeksForGeeks: Understanding constexpr Specifier in C++](https://www.geeksforgeeks.org/understanding-constexper-specifier-in-cpp/)
 
 ## Notes
 
