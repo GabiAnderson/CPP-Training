@@ -2,7 +2,7 @@
 
 ## Course Overview
 
-This repository is dedicated to my learning journey through a C++ programming course that primarily follows the "C++ programming course - beginner to advanced" available on YouTube. The original content is sourced from the Udemy course "The C++20 Masterclass: From Fundamentals to Advanced".
+This repository is dedicated to my learning journey through a C++ programming course that primarily follows the "C++ programming course - beginner to advanced" available on [YouTube](https://www.youtube.com/watch?v=8jLOx1hD3_o&list=WL&index=21&t=24973s). The original content is sourced from the [Udemy course](https://www.udemy.com/course/the-modern-cpp-20-masterclass/) "The C++20 Masterclass: From Fundamentals to Advanced".
 
 ### Course Details
 
@@ -11,7 +11,7 @@ This repository is dedicated to my learning journey through a C++ programming co
 
 ## Course Structure
 
-The YouTube course is a condensed version of the Udemy course, missing different "small" chapters such as Chapter 6 - Literals and Constants. To bridge the gap caused by the missing content, I'll be using supplementary materials such as additional videos and other resources to cover the omitted sections (they will be linked in the Chapter Completion section). However, I have access to the Udemy course's source code, which will be utilized whenever applicable and necessary.
+The YouTube course is a condensed version of the Udemy course, missing different "small" chapters such as Chapter 6 - Literals and Constants. To bridge the gap caused by the missing content, I'll be using supplementary materials such as additional videos and other resources to cover the omitted sections (they will be linked in the Chapter Completion section). However, I have access to the [Udemy course's source code](https://github.com/rutura/The-C-20-Masterclass-Source-Code/tree/main), which will be utilized whenever applicable and necessary.
 
 ### Chapter Completion
 
@@ -28,7 +28,10 @@ The YouTube course is a condensed version of the Udemy course, missing different
 7. **Chapter 7 - Conversion, Overflow, and Underflow**: Completed
     - **Section 2 - Implicit Data Conversion**: Supplemented with [CPP Reference: Implicit conversions](https://en.cppreference.com/w/cpp/language/implicit_conversion)
     - **Section 3 - Explicit Data Conversion**: Supplemented with [GeeksForGeeks: Type Conversion in C++](https://www.geeksforgeeks.org/type-conversion-in-c/)
-    - **Section 4 - Overflow and Underflow**: Supplemented with [Professor Hank: C++ Overflow and Underflow // What it is, why it happens, and an example ]([https://www.geeksforgeeks.org/how-to-avoid-integer-overflows-and-underflows-in-cpp/](https://www.youtube.com/watch?v=JdEWCntMTN0))
+    - **Section 4 - Overflow and Underflow**: Supplemented with [Professor Hank: C++ Overflow and Underflow // What it is, why it happens, and an example ](https://www.youtube.com/watch?v=JdEWCntMTN0)
+8. **Chapter 8 - Bitwise Operators**: In Progress
+    - **Section 2 - Printing in Binary**: Supplemented with [GeeksForGeeks: C++ bitset and its application](https://www.geeksforgeeks.org/cpp-bitset-and-its-application/)
+    -    
 
 ## Notes
 
