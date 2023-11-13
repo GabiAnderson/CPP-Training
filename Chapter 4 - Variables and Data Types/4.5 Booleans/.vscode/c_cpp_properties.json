@@ -19,3 +19,16 @@
     ],
     "version": 4
 }
+
+/*
+
+    OUTPUT RESULTS:
+        Red Light True
+        Green Light False
+        Red Light State: 1
+        Green Light State: 0
+        Red Light State: true
+        Green Light State: false
+        Size of bool: 1
+
+*/

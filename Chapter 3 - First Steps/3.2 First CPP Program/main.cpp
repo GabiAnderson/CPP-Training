@@ -12,3 +12,10 @@ int main()
     //   successfully or failed - it is kind of like a common practice but not required
     return 0;
 }
+
+/*
+
+    OUTPUT RESULTS:
+        Hello World!
+
+*/

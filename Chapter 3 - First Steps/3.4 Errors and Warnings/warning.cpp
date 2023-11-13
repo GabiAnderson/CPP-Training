@@ -22,3 +22,10 @@ int main()
     std::cout << 20/0 << std::endl;
     return 0;
 }
+
+/*
+
+    OUTPUT RESULTS:
+        __no output but compile errors__
+
+*/

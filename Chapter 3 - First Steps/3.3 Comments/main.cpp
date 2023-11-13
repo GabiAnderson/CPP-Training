@@ -25,3 +25,10 @@ int main()
     std::cout << "Hello World!" << std::endl;
     return 0;
 }
+
+/*
+
+    OUTPUT RESULTS:
+        __Compiler errors => no output__
+
+*/

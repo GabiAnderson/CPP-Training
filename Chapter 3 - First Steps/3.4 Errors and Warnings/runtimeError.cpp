@@ -18,3 +18,10 @@ int main()
     std::cout << val << std::endl;
     return 0;
 }
+
+/*
+
+    OUTPUT RESULTS:
+        Hello World!
+
+*/

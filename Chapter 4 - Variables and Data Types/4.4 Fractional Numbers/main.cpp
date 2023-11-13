@@ -98,3 +98,31 @@ int main()
 
     return 0;
 }
+
+/*
+
+    OUTPUT RESULTS: 
+        sizeof float: 4
+        sizeof double: 8
+        sizeof long double: 16
+        Float Val: 1.1234568357467651367
+        Double Val: 1.1234567890123456912
+        Long Double Val: 1.1234567890123456789
+        Narrowing error: INIT val 19240023.0f  ACTUAL: 19240024
+        No Narrowing error: INIT val 19240023.0f  ACTUAL: 19240023
+        -----------------------------------------
+        Precision Check
+        Float Val: 1.1235
+        Double Val: 1.1235
+        Long Double Val: 1.1235
+        -----------------------------------------
+        Scientific Notation Check
+        A: 1.924e+08 B: 1.924e+08 Equal?: 1
+        -----------------------------------------
+        Inf and NaN Check
+        Infinity Check +: inf
+        Infinity Check -: -inf
+        NaN Check: nan
+        -----------------------------------------
+
+*/

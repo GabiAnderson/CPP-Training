@@ -31,3 +31,13 @@ int main()
     std::cout << "Value: " << character1 << " Value (int): " << static_cast<int>(character1) << std::endl;
     return 0;
 }
+
+/*
+
+    OUTPUT RESULTS:
+        a
+        b
+        Value: A Value (int): 65
+        Value: a Value (int): 97
+
+*/
