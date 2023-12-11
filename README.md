@@ -1,5 +1,7 @@
 # C++ Training Repository
 
+❗❗❗**This Repo has been put on hold as of (11/15/23) due to house moving and other personal reasons. I expect to be picking this back up early 2024**❗❗❗
+
 ## Course Overview
 
 This repository is dedicated to my learning journey through a C++ programming course that primarily follows the "C++ programming course - beginner to advanced" available on [YouTube](https://www.youtube.com/watch?v=8jLOx1hD3_o&list=WL&index=21&t=24973s). The original content is sourced from the [Udemy course](https://www.udemy.com/course/the-modern-cpp-20-masterclass/) "The C++20 Masterclass: From Fundamentals to Advanced".
